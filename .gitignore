@@ -1,0 +1,117 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+eggs/
+.eggs/
+*.egg-info/
+*.egg
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+*.cover
+*.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*,cover
+.pytest_cache/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IDEs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Streamlit / runtime cache
+.streamlit/
+
+# Data and model artifacts (do NOT commit large models or raw data)
+# Keep models out of git; use releases or Git LFS when needed.
+models/*.pkl
+models/*.joblib
+data/*.csv
+data/*.parquet
+
+# Large binary weights
+**/*.weights
+**/*.ckpt
+**/*.pt
+**/*.h5
+**/*.pb
+**/*.tflite
+
+# Logs
+logs/
+*.log
+# Ignore virtual environments
+venv/
+env/
+ENV/
+.venv/
+
+# Ignore Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Ignore IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Ignore Streamlit cache
+.streamlit/
+
+# Ignore model pickle files (comment out to track trained models)
+models/*.pkl
+
+# Ignore data files (comment out to track actual data)
+data/*.csv
+
+# Ignore logs
+*.log
+
+# Ignore notebooks
+*.ipynb
+.ipynb_checkpoints/
+
+# Ignore environment files
+.env
+.env.local
+
+# Ignore pip
+*.egg-info/
+dist/
+build/

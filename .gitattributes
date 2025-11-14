@@ -1,0 +1,7 @@
+# Ensure consistent line endings
+* text=auto
+*.py text eol=lf
+*.md text eol=lf
+
+# Treat model binaries as binary (avoid EOL conversion)
+models/* binary

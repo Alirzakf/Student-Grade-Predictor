@@ -4,7 +4,7 @@ About the author
 Alireza Kafi
 
 - Email: alirzakf@gmail.com
-- Instagram: @alirzakf
+- Instagram: https://www.instagram.com/alirzakf
 - GitHub: https://github.com/Alirzakf
 
 ---

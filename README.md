@@ -392,18 +392,4 @@ print(f"Predicted outcome: {prediction[0]}")
 
 ## 📄 License
 
-This project is provided for **educational purposes only** under the Educational Use License.
-
-**You can:**
-- ✅ View, study, and learn from the source code
-- ✅ Modify and debug the code locally
-- ✅ Contribute improvements via pull requests
-
-**You cannot:**
-- ❌ Copy, reproduce, or distribute this software
-- ❌ Sell, publish, or commercialize it
-- ❌ Use it in production without explicit permission
-- ❌ Create derivatives for distribution
-
-For the full license terms, see the `LICENSE` file in the repository.
-For permissions or questions, contact: **alirzakf@gmail.com**
+- check license file for more information

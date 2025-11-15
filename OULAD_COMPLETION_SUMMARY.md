@@ -255,12 +255,13 @@ If using OULAD data in research:
 
 ---
 
-## 🎯 Next Steps
+## Next Steps (read licnese before doing this)
 
-### Immediate (Optional)
+### Immediate
 - [ ] Download real OULAD data from https://analyse.kmi.open.ac.uk/open_dataset
 - [ ] Extract CSV files to `data/` folder
 - [ ] Run `python models/train.py` to train on real data
+ **Make sure that you read license file**
 
 ### For Production
 - [ ] Test full pipeline with real data
@@ -283,15 +284,15 @@ All project files are well-documented:
 
 ---
 
-## 🎉 Summary
+## Summary
 
-- ✅ Uses real UK public learning analytics data (OULAD)
-- ✅ Classifies students into 4 outcome categories
-- ✅ Handles categorical and numeric features properly
-- ✅ Uses appropriate classification models
-- ✅ Evaluates performance with classification metrics
-- ✅ Has complete documentation for OULAD dataset
-- ✅ Auto-generates sample data for testing
+- Uses real UK public learning analytics data (OULAD)
+- Classifies students into 4 outcome categories
+- Handles categorical and numeric features properly
+- Uses appropriate classification models
+- Evaluates performance with classification metrics
+- Has complete documentation for OULAD dataset
+- Auto-generates sample data for testing
 
 ---
 

@@ -283,9 +283,8 @@ docker run -p 8501:8501 oulad-predictor
 
 ---
 
-## 🎓 Learning Outcomes
+## Learning Outcomes
 
-By using this project with OULAD data, you'll learn:
 
 ✅ Working with real, public ML datasets  
 ✅ Classification vs Regression tasks  
@@ -312,6 +311,7 @@ If you use this project or OULAD data in research, please cite:
   volume={4},
   pages={170005},
   year={2017}
+Project by Alireza. Kafi - 2025
 }
 ```
 
@@ -319,7 +319,7 @@ If you use this project or OULAD data in research, please cite:
 
 ## 📄 License
 
-- **Project Code**: MIT License
+- **Project Code**: APACHE LICENSE
 - **OULAD Dataset**: CC BY 4.0
 - Attribution required when using OULAD data
 
@@ -341,4 +341,4 @@ Feel free to:
 streamlit run app.py
 ```
 
-Happy predicting! 🚀📊🎓
+

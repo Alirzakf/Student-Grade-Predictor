@@ -140,12 +140,6 @@ Where to put data locally:
 CI notes:
 - A minimal GitHub Actions workflow is included at `.github/workflows/ci.yml` that installs dependencies and runs a quick import smoke test.
 
-If you'd like, I can:
-- Move existing `models/*.pkl` into an `artifacts/` folder and add a small example model for tests.
-- Add Git LFS tracking for the project and update this README with explicit commands.
-
-- Provides feature importance scores
-- Max depth of 15 to prevent overfitting
 
 #### Evaluation Metrics
 - **Accuracy**: Proportion of correct predictions
